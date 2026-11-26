@@ -1,4 +1,4 @@
-# Informe final
+# Informe final de respuesta a incidentes (plantilla)
 
-- **Qué demuestra:** Informe completo que responde qué pasó y cuándo, el desempeño del equipo frente a planes/playbooks/políticas, información a la gestión, acciones de contención/erradicación y medidas preventivas para evitar incidentes similares.
-- **Evidencia/herramientas:** Señal de práctica `resultado` — plantilla de informe final post-incidente con lecciones aprendidas.
+- **Propósito:** Estructurar un informe posterior a un incidente con cronología, alcance e impacto, decisiones de respuesta, acciones de contención y erradicación, recuperación, comunicación, lecciones aprendidas y medidas preventivas.
+- **Estado:** Plantilla de estudio. Este archivo no contiene un caso analizado ni resultados de un ejercicio; debe completarse con evidencias antes de presentarse como informe final.
