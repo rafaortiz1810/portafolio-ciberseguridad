@@ -1,22 +1,24 @@
-# Portafolio de Ciberseguridad — Rafael Ortiz
+# Portafolio de ciberseguridad — Rafael Ortiz
 
-Analista de ciberseguridad en formación, enfoque **Blue Team / SOC**. Evidencia práctica organizada por especialidad; cada actividad en su propio documento.
+En formación en ciberseguridad, con foco en **Blue Team / SOC** y prácticas controladas de seguridad ofensiva.
+
+Este repositorio reúne **81 apuntes y actividades formativas**, organizados por especialidad. Son materiales de estudio y ejercicios de laboratorio; cada entrada puede resumir un concepto o una actividad y no necesariamente constituye un informe completo ni evidencia de una evaluación en producción.
 
 ## Especialidades
 
-### [TryHackMe — laboratorios y retos](./tryhackme/) (54)
+### [TryHackMe — laboratorios y retos](./tryhackme/) (54 notas)
   - [Host Virtual](./tryhackme/host-virtual.md)
   - [IDOR](./tryhackme/idor.md)
   - [Manipulación de Cookies](./tryhackme/manipulaci-n-de-cookies.md)
   - [Path Transversal](./tryhackme/path-transversal.md)
-  - [SSRF (Servidor-Sede Repuesto Former)](./tryhackme/ssrf-servidor-sede-repuesto-former.md)
+  - [SSRF (falsificación de solicitudes del lado del servidor)](./tryhackme/ssrf-servidor-sede-repuesto-former.md)
   - [LFI (Inclusión de archivos locales)](./tryhackme/lfi-inclusi-n-de-archivos-locales.md)
   - [RFI (Inclusión remota de archivos)](./tryhackme/rfi-inclusi-n-remota-de-archivos.md)
   - [Descubrimiento automatizado](./tryhackme/descubrimiento-automatizado.md)
   - [Google Hacking / Dorking](./tryhackme/google-hacking-dorking.md)
   - [S3 Buckets](./tryhackme/s3-buckets.md)
   - [Command Injection / RCE](./tryhackme/command-injection-rce.md)
-  - [Burp Suite (Buro Quite)](./tryhackme/burp-suite-buro-quite.md)
+  - [Burp Suite](./tryhackme/burp-suite-buro-quite.md)
   - [Intruder](./tryhackme/intruder.md)
   - [Repeater](./tryhackme/repeater.md)
   - [Favicon](./tryhackme/favicon.md)
@@ -60,7 +62,7 @@ Analista de ciberseguridad en formación, enfoque **Blue Team / SOC**. Evidencia
   - [Ataque SSRF (Máquina THM)](./tryhackme/ataque-ssrf-m-quina-thm.md)
   - [Evadiendo filtro en LFI - Challenge 2](./tryhackme/evadiendo-filtro-en-lfi-challenge-2.md)
 
-### [SOC / Hack The Box — Blue & Purple Team](./soc-htb/) (11)
+### [SOC / Hack The Box — Blue & Purple Team](./soc-htb/) (11 notas)
   - [Ejercicios de Purple Team](./soc-htb/ejercicios-de-purple-team.md)
   - [Evaluación de seguridad de Active Directory](./soc-htb/evaluaci-n-de-seguridad-de-active-directory.md)
   - [Gestión de identidades con privilegios MFA](./soc-htb/gesti-n-de-identidades-con-privilegios-mfa.md)
@@ -73,15 +75,15 @@ Analista de ciberseguridad en formación, enfoque **Blue Team / SOC**. Evidencia
   - [Contención.](./soc-htb/contenci-n.md)
   - [Informe final](./soc-htb/informe-final.md)
 
-### [CompTIA CySA+ — análisis de ciberseguridad](./comptia-cysa/) (6)
-  - [Exploits de dia 0](./comptia-cysa/exploits-de-dia-0.md)
+### [Conceptos de análisis alineados con CompTIA CySA+](./comptia-cysa/) (6 notas)
+  - [Exploits de día cero](./comptia-cysa/exploits-de-dia-0.md)
   - [amenazas conocidas](./comptia-cysa/amenazas-conocidas.md)
   - [amenazas desconocidas](./comptia-cysa/amenazas-desconocidas.md)
   - [amenazas recicladas](./comptia-cysa/amenazas-recicladas.md)
   - [desconocidos desconocidos.](./comptia-cysa/desconocidos-desconocidos.md)
-  - [Diamond model of Intrusion Analysis](./comptia-cysa/diamond-model-of-intrusion-analysis.md)
+  - [Modelo Diamond de análisis de intrusiones](./comptia-cysa/diamond-model-of-intrusion-analysis.md)
 
-### [CISCO — fundamentos de red](./cisco-fundamentos-red/) (6)
+### [Cisco — fundamentos de red](./cisco-fundamentos-red/) (6 notas)
   - [Ipconfig](./cisco-fundamentos-red/ipconfig.md)
   - [Modelo OSI](./cisco-fundamentos-red/modelo-osi.md)
   - [Netstat](./cisco-fundamentos-red/netstat.md)
@@ -98,7 +100,7 @@ Analista de ciberseguridad en formación, enfoque **Blue Team / SOC**. Evidencia
   - [Curl](./linux/curl.md)
 
 
-_Total: 81 actividades documentadas._
+_Total: 81 apuntes y actividades formativas._
 
 ## Contacto
 - LinkedIn: https://www.linkedin.com/in/rafael-ortiz-9a60b5351/
