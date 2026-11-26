@@ -1,4 +1,4 @@
-# Diamond model of Intrusion Analysis
+# Modelo Diamond de análisis de intrusiones
 
-- **Qué demuestra:** Modelo de análisis de intrusión con cuatro dimensiones: víctima, adversario, capacidad e infraestructura.
-- **Evidencia/herramientas:** Imagen incluida (img=true); diagrama visual útil para forensic y análisis de ataques.
+- **Concepto:** Marco de análisis que relaciona cuatro componentes: adversario, capacidad, infraestructura y víctima.
+- **Estado del documento:** Apunte conceptual de estudio. El repositorio no incluye el diagrama ni evidencia de un caso analizado.
